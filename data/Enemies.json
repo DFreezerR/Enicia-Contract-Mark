@@ -3690,7 +3690,7 @@
         ],
         "gold": 0,
         "name": "Selkie",
-        "note": "<Dice:1>\n<Critical:99>\n<Unique:0>\n<enemyLv:20><book:no>\n<race:Spirit>\n<InitialState:381>//飛行\n<desc1:SpiritSomething like that.>\n<desc2:It is said that good luck will come to you if you catch it.>",
+        "note": "<Dice:1>\n<Critical:99>\n<Unique:0>\n<enemyLv:20><book:no>\n<race:Spirit>\n<InitialState:381>//飛行\n<desc1:SpiritSomething like that.>\n<desc2:It's said that good luck will come to you if you catch it.>",
         "params": [
             30,
             0,
@@ -8950,7 +8950,7 @@
         ],
         "gold": 0,
         "name": "Cursed Grudge Larvaki Queen",
-        "note": "<Dice:2>\n<Critical:99>\n<Unique:0>\n<enemyLv:7>\n<race:Ghost>\n<desc1:A collective of the lamentations of the dead.>\n<desc2:It is highly dangerous as it actively causes harm to others.>",
+        "note": "<Dice:2>\n<Critical:99>\n<Unique:0>\n<enemyLv:7>\n<race:Ghost>\n<desc1:A collective of the lamentations of the dead.>\n<desc2:It's highly dangerous as it actively causes harm to others.>",
         "params": [
             99,
             79,
@@ -9573,7 +9573,7 @@
         ],
         "gold": 0,
         "name": "Maanagarumu",
-        "note": "<Dice:3>\n<Critical:99>\n<Unique:0>\n<enemyLv:9>\n<race:Animal><strong>\n<desc1:A giant white wolf with a beautiful coat.>\n<desc2:It is often seen on the night of the full moon.>",
+        "note": "<Dice:3>\n<Critical:99>\n<Unique:0>\n<enemyLv:9>\n<race:Animal><strong>\n<desc1:A giant white wolf with a beautiful coat.>\n<desc2:It's often seen on the night of the full moon.>",
         "params": [
             120,
             60,
@@ -9852,7 +9852,7 @@
         ],
         "gold": 0,
         "name": "Morviper",
-        "note": "<Dice:2>\n<Critical:99>\n<Unique:0>\n<enemyLv:6>\n<race:Animal><boss>\n<desc1:A wandering monster of a large serpent. It is also said to be a minion of an evil dragon.>\n<desc2:Attacks people hiding in ruins and other places.>",
+        "note": "<Dice:2>\n<Critical:99>\n<Unique:0>\n<enemyLv:6>\n<race:Animal><boss>\n<desc1:A wandering monster of a large serpent. It's also said to be a minion of an evil dragon.>\n<desc2:Attacks people hiding in ruins and other places.>",
         "params": [
             80,
             0,
@@ -11850,7 +11850,7 @@
         ],
         "gold": 0,
         "name": "Metal Crab",
-        "note": "<Dice:2>\n<Critical:99>\n<Unique:0>\n<enemyLv:4>\n<race:Crustacean>\n<desc1:A crab with a terrifyingly hard metallic shell.>\n<desc2:HPAlthough it is low, all half-hearted attacks are blocked.>",
+        "note": "<Dice:2>\n<Critical:99>\n<Unique:0>\n<enemyLv:4>\n<race:Crustacean>\n<desc1:A crab with a terrifyingly hard metallic shell.>\n<desc2:HPAlthough it's low, all half-hearted attacks are blocked.>",
         "params": [
             18,
             0,
@@ -15356,7 +15356,7 @@
         ],
         "gold": 0,
         "name": "Abyss Spider",
-        "note": "<Dice:2>\n<Critical:99>\n<Unique:3>\n<enemyLv:6>\n<race:Insect>\n<desc1:A spider that lives in the cracks of the deep earth.>\n<desc2:It is said to prey even on the souls of the dead.>",
+        "note": "<Dice:2>\n<Critical:99>\n<Unique:3>\n<enemyLv:6>\n<race:Insect>\n<desc1:A spider that lives in the cracks of the deep earth.>\n<desc2:It's said to prey even on the souls of the dead.>",
         "params": [
             57,
             0,
@@ -16935,7 +16935,7 @@
         ],
         "gold": 0,
         "name": "Undead Dragon Morvink",
-        "note": "<MNKR_EnemyStateIconOffset:100>\n<Dice:2>\n<Critical:99>\n<Unique:0><boss>\n<enemyLv:11>\n<race:Undead>\n<desc1:The deceased evil dragon. It is said to be the cause of the downfall of the Carvain\ndynasty.>\n<desc2:The mighty power from before is weakening, but still possesses a fearsome strength.>",
+        "note": "<MNKR_EnemyStateIconOffset:100>\n<Dice:2>\n<Critical:99>\n<Unique:0><boss>\n<enemyLv:11>\n<race:Undead>\n<desc1:The deceased evil dragon. It's said to be the cause of the downfall of the Carvain\ndynasty.>\n<desc2:The mighty power from before is weakening, but still possesses a fearsome strength.>",
         "params": [
             300,
             150,

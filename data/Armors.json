@@ -392,7 +392,7 @@
         ],
         "iconIndex": 136,
         "name": "Dancer Outfit",
-        "note": "<CLOTHTYPE:MEDIUM>\n<charaChip:actor_0001>\n<ChipNum:10>\n<FaceOpt:1>\n<CLOTHID:11>//立ち絵ピクチャ番号\n<CLOTHPICNUM:Body_0007>\n<StandPicture:Body_0001>\n<StandNo:11>\n<CHARACHIP:NORMAL>\n<TALKCATEGORY:EROTIC_PROSTITUTE>\n<pose3Under:7>//ポーズ3の時の分割下着\n<pose3Under2:8>//ポーズ3の時のずらし\n<Under:0>//普通の下着の有無\n<SolidLeg:11>脚固定\n<Arm:11>\n<type:dance>\n<shame:70>\n<装備条件アクター:1>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nMarusta tavern dancer costume. It is popular among male customers with its bold design.\n>",
+        "note": "<CLOTHTYPE:MEDIUM>\n<charaChip:actor_0001>\n<ChipNum:10>\n<FaceOpt:1>\n<CLOTHID:11>//立ち絵ピクチャ番号\n<CLOTHPICNUM:Body_0007>\n<StandPicture:Body_0001>\n<StandNo:11>\n<CHARACHIP:NORMAL>\n<TALKCATEGORY:EROTIC_PROSTITUTE>\n<pose3Under:7>//ポーズ3の時の分割下着\n<pose3Under2:8>//ポーズ3の時のずらし\n<Under:0>//普通の下着の有無\n<SolidLeg:11>脚固定\n<Arm:11>\n<type:dance>\n<shame:70>\n<装備条件アクター:1>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nMarusta tavern dancer costume. It's popular among male customers with its bold design.\n>",
         "params": [
             0,
             0,
@@ -419,7 +419,7 @@
         ],
         "iconIndex": 136,
         "name": "Swimsuit",
-        "note": "<CLOTHTYPE:MEDIUM>\n<charaChip:actor_0001>\n<ChipNum:13>\n<Arm:0>\n<CLOTHID:13>//立ち絵ピクチャ番号\n<CLOTHPICNUM:Body_0007>\n<StandPicture:Body_0001>\n<StandNo:13>\n<CHARACHIP:NORMAL>\n<TALKCATEGORY:EROTIC_SWIM>\n<type:swim2>\n<pose3Under:11>//ポーズ3の時の分割下着\n<pose3Under2:12>//ポーズ3の時のずらし\n<Under:0>//普通の下着の有無\n<shame:70>\n<装備条件アクター:1>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nMysterious designed swimsuit. It is unclear where the inspiration came from.\n>",
+        "note": "<CLOTHTYPE:MEDIUM>\n<charaChip:actor_0001>\n<ChipNum:13>\n<Arm:0>\n<CLOTHID:13>//立ち絵ピクチャ番号\n<CLOTHPICNUM:Body_0007>\n<StandPicture:Body_0001>\n<StandNo:13>\n<CHARACHIP:NORMAL>\n<TALKCATEGORY:EROTIC_SWIM>\n<type:swim2>\n<pose3Under:11>//ポーズ3の時の分割下着\n<pose3Under2:12>//ポーズ3の時のずらし\n<Under:0>//普通の下着の有無\n<shame:70>\n<装備条件アクター:1>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nMysterious designed swimsuit. It's unclear where the inspiration came from.\n>",
         "params": [
             0,
             0,
@@ -1563,7 +1563,7 @@
         ],
         "iconIndex": 557,
         "name": "Silver Gauntlets",
-        "note": "<armor><UniqueEquip>\n<rate:SSR><装備条件スキル:1083><EquipTag:arm>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nA rare gauntlet made of a scarce magical metal. It is beautifully crafted and decorated.\n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:SSR><装備条件スキル:1083><EquipTag:arm>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nA rare gauntlet made of a scarce magical metal. It's beautifully crafted and decorated.\n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -1590,7 +1590,7 @@
         ],
         "iconIndex": 557,
         "name": "Dragon Bone Gauntlets",
-        "note": "<armor><UniqueEquip>\n<rate:SSR><装備条件スキル:1083><EquipTag:arm>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\n: Rarity  Gauntlets made from the bones found in the remains of a dragon. The sturdy bones\nare stronger than those of any other creature and cannot be damaged by half-hearted\nattacks. It is said that wearing them will imbue the wearer with the power of the dragon,\nbut it is just a superstition. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:SSR><装備条件スキル:1083><EquipTag:arm>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\n: Rarity  Gauntlets made from the bones found in the remains of a dragon. The sturdy bones\nare stronger than those of any other creature and cannot be damaged by half-hearted\nattacks. It's said that wearing them will imbue the wearer with the power of the dragon,\nbut it's just a superstition. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             8,
             0,
@@ -1741,7 +1741,7 @@
     {
         "id": 65,
         "atypeId": 3,
-        "description": "Armor for those who act in the shadows. It is designed to make little noise. \n[special]",
+        "description": "Armor for those who act in the shadows. It's designed to make little noise. \n[special]",
         "etypeId": 4,
         "traits": [
             {
@@ -1806,7 +1806,7 @@
         ],
         "iconIndex": 540,
         "name": "Ogre Leather",
-        "note": "<armor><UniqueEquip>\n<rate:SSR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nHumanoid giant demon's armor made of Ogre tribe's leather. It is said that wearing it\nincreases one's muscular strength and ferocity. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:SSR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nHumanoid giant demon's armor made of Ogre tribe's leather. It's said that wearing it\nincreases one's muscular strength and ferocity. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             5,
             0,
@@ -1843,7 +1843,7 @@
         ],
         "iconIndex": 540,
         "name": "Dragon Leather",
-        "note": "<armor><UniqueEquip>\n<rate:UR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nDragon leather armor made using dragon materials. It is made by combining two types of\ndragon materials and has resistance to fire and lightning. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:UR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nDragon leather armor made using dragon materials. It's made by combining two types of\ndragon materials and has resistance to fire and lightning. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             10,
             0,
@@ -1897,7 +1897,7 @@
         ],
         "iconIndex": 540,
         "name": "Divine Beast Leather Armor",
-        "note": "<armor><UniqueEquip>\n<rate:UR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nLegendary divine beast leather armor that can even swallow gods. It is imbued with\ndivinity and cannot be scratched by ordinary blades. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:UR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nLegendary divine beast leather armor that can even swallow gods. It's imbued with\ndivinity and cannot be scratched by ordinary blades. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -1951,7 +1951,7 @@
         ],
         "iconIndex": 542,
         "name": "Heavy Plate",
-        "note": "<armor><UniqueEquip>\n<rate:R><装備条件スキル:1083>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nIron metal armor. It is very heavy, but has strong defensive power. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:R><装備条件スキル:1083>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nIron metal armor. It's very heavy, but has strong defensive power. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -2059,7 +2059,7 @@
         ],
         "iconIndex": 542,
         "name": "Dragonbone Armor",
-        "note": "<armor><UniqueEquip>\n<rate:SSR><装備条件スキル:1083>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nArmor made from the bones found in the remains of a dragon. Its sturdy bones are stronger\nthan any other creature's, and can withstand even half-hearted attacks without a scratch.\nIt is said that wearing it will imbue the wearer with the power of a dragon, but it is\njust a superstition. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:SSR><装備条件スキル:1083>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nArmor made from the bones found in the remains of a dragon. Its sturdy bones are stronger\nthan any other creature's, and can withstand even half-hearted attacks without a scratch.\nIt is said that wearing it will imbue the wearer with the power of a dragon, but it's\njust a superstition. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             5,
             0,
@@ -2140,7 +2140,7 @@
         ],
         "iconIndex": 542,
         "name": "Crust Steel Armor",
-        "note": "<armor><UniqueEquip>\n<rate:UR><装備条件スキル:1083>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nGaia Bone armor made of rare metal. It is characterized by being very hard and light.\n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:UR><装備条件スキル:1083>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nGaia Bone armor made of rare metal. It's characterized by being very hard and light.\n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -2194,7 +2194,7 @@
         ],
         "iconIndex": 572,
         "name": "Robe",
-        "note": "<armor><UniqueEquip>\n<rate:C>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nRobe made of cloth. It is sturdy and suitable for travel and adventure. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:C>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nRobe made of cloth. It's sturdy and suitable for travel and adventure. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -2393,7 +2393,7 @@
         ],
         "iconIndex": 572,
         "name": "Grim Reaper's Robe",
-        "note": "<armor><UniqueEquip>\n<rate:SSR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nA tattered robe said to be worn by messengers of the underworld. It is imbued with ominous\npower, but also mitigates the effects of external miasma. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:SSR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nA tattered robe said to be worn by messengers of the underworld. It's imbued with ominous\npower, but also mitigates the effects of external miasma. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             5,
             5,
@@ -3013,7 +3013,7 @@
         ],
         "iconIndex": 942,
         "name": "Magician's Lifeline",
-        "note": "<armor>\n<rate:SSR><UniqueEquip>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nAn accessory that nullifies interference with magic. For a magician who may\nbe in a predicament due to malicious sealing traps, it is truly a lifeline. \n\nRarity: \\SCRIPT{data.meta.rate}\n>",
+        "note": "<armor>\n<rate:SSR><UniqueEquip>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nAn accessory that nullifies interference with magic. For a magician who may\nbe in a predicament due to malicious sealing traps, it's truly a lifeline. \n\nRarity: \\SCRIPT{data.meta.rate}\n>",
         "params": [
             0,
             0,
@@ -3573,7 +3573,7 @@
         ],
         "iconIndex": 754,
         "name": "Thief's Dice",
-        "note": "<armor><UniqueEquip>\n<rate:SSR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nDice that a certain legendary thief used as a test of luck before doing a job. It is said\nthat on the day when a one was rolled, they never stole no matter how perfect the\nopportunity was. \n\nRarity: \\SCRIPT{data.meta.rate}\n>",
+        "note": "<armor><UniqueEquip>\n<rate:SSR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nDice that a certain legendary thief used as a test of luck before doing a job. It's said\nthat on the day when a one was rolled, they never stole no matter how perfect the\nopportunity was. \n\nRarity: \\SCRIPT{data.meta.rate}\n>",
         "params": [
             0,
             0,
@@ -4263,7 +4263,7 @@
         ],
         "iconIndex": 555,
         "name": "Silver Greaves",
-        "note": "<armor><UniqueEquip>\n<rate:SSR><装備条件スキル:1083><EquipTag:shoes>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nA suit of armor made from rare magical metal. It is beautifully decorated and has a high\n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:SSR><装備条件スキル:1083><EquipTag:shoes>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nA suit of armor made from rare magical metal. It's beautifully decorated and has a high\n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             10,
             0,
@@ -4398,7 +4398,7 @@
         ],
         "iconIndex": 555,
         "name": "Dragonbone Greaves",
-        "note": "<armor><UniqueEquip>\n<rate:SSR><装備条件スキル:1083><EquipTag:shoes>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nArmor made from bones found in the remains of a dragon. Its sturdy bones are stronger than\nany other creature's, and can withstand even half-hearted attacks without a scratch. It is\nsaid that wearing it imbues the wearer with the power of a dragon, but it is just a\nsuperstition. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:SSR><装備条件スキル:1083><EquipTag:shoes>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nArmor made from bones found in the remains of a dragon. Its sturdy bones are stronger than\nany other creature's, and can withstand even half-hearted attacks without a scratch. It's\nsaid that wearing it imbues the wearer with the power of a dragon, but it's just a\nsuperstition. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             5,
             0,
@@ -4452,7 +4452,7 @@
         ],
         "iconIndex": 555,
         "name": "Armor made of Crust Steel",
-        "note": "<armor><UniqueEquip>\n<rate:UR><装備条件スキル:1083><EquipTag:shoes>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nGaia Bone armor made of rare metal. It is characterized by being very hard and light.\n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:UR><装備条件スキル:1083><EquipTag:shoes>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nGaia Bone armor made of rare metal. It's characterized by being very hard and light.\n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             10,
             0,
@@ -5005,7 +5005,7 @@
         ],
         "iconIndex": 167,
         "name": "Corpse Dragon's Miasma Stone",
-        "note": "<armor><UniqueEquip>\n<rate:SSR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nA spirit organ held by a dragon that has decayed and become a dwelling place\nfor miasma. It can be useful depending on how it is handled, but it is a dangerous item\nthat can cause great disaster if one mistake is made. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:SSR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nA spirit organ held by a dragon that has decayed and become a dwelling place\nfor miasma. It can be useful depending on how it's handled, but it's a dangerous item\nthat can cause great disaster if one mistake is made. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             10,
@@ -5227,7 +5227,7 @@
         ],
         "iconIndex": 871,
         "name": "Rainbow Crystal",
-        "note": "<armor><UniqueEquip>\n<rate:UR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nA rare accessory made from a crystal of rare rainbow crystal. Although it is quite small\nin size, it contains a reasonably strong spirit. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:UR>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nA rare accessory made from a crystal of rare rainbow crystal. Although it's quite small\nin size, it contains a reasonably strong spirit. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -6204,7 +6204,7 @@
         ],
         "iconIndex": 132,
         "name": "Silver Helm",
-        "note": "<armor><UniqueEquip>\n<rate:SSR><EquipTag:hat><装備条件スキル:1083>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nA helmet made of rare magical metal. It is beautifully decorated and has a high \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:SSR><EquipTag:hat><装備条件スキル:1083>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nA helmet made of rare magical metal. It's beautifully decorated and has a high \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             8,
             0,
@@ -6231,7 +6231,7 @@
         ],
         "iconIndex": 132,
         "name": "Dragonbone Helm",
-        "note": "<armor><UniqueEquip>\n<rate:SSR><EquipTag:hat><装備条件スキル:1083>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\n: Rarity  Helmet made from bones found in the remains of a dragon. Its sturdy bones are\nstronger than any other creature's, and it won't be damaged by half-hearted attacks. It is\nsaid that wearing it will imbue the wearer with the power of the dragon, but it is just a\nsuperstition. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:SSR><EquipTag:hat><装備条件スキル:1083>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\n: Rarity  Helmet made from bones found in the remains of a dragon. Its sturdy bones are\nstronger than any other creature's, and it won't be damaged by half-hearted attacks. It's\nsaid that wearing it will imbue the wearer with the power of the dragon, but it's just a\nsuperstition. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -6258,7 +6258,7 @@
         ],
         "iconIndex": 132,
         "name": "Helm of Crust Steel",
-        "note": "<armor><UniqueEquip>\n<rate:UR><EquipTag:hat><装備条件スキル:1083>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nGaia Bone helmet made of rare metal. It is characterized by its extreme hardness and\nlightness. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:UR><EquipTag:hat><装備条件スキル:1083>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nGaia Bone helmet made of rare metal. It's characterized by its extreme hardness and\nlightness. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -6514,7 +6514,7 @@
         ],
         "iconIndex": 300,
         "name": "Crab God's Carapace",
-        "note": "<armor><UniqueEquip>\n<rate:UR><uniqueItem>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nThe exoskeleton of the great crab god. It is extremely hard and has resistance against\nmagic attributes. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<armor><UniqueEquip>\n<rate:UR><uniqueItem>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nThe exoskeleton of the great crab god. It's extremely hard and has resistance against\nmagic attributes. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,

@@ -354,7 +354,7 @@
         ],
         "iconIndex": 186,
         "name": "Rista's Scripture",
-        "note": "<Dice:1>\n<Unique:0>\n<Critical:99>\n<Type:Atk>\n<weapon>\n<装備条件アクター:1>\n<uniqueItem><rate:UC>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nThe revered scripture of the Rista religion. It is written with numerous histories about\nthe fundamental beliefs and doctrines towards God. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:1>\n<Unique:0>\n<Critical:99>\n<Type:Atk>\n<weapon>\n<装備条件アクター:1>\n<uniqueItem><rate:UC>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nThe revered scripture of the Rista religion. It's written with numerous histories about\nthe fundamental beliefs and doctrines towards God. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -453,7 +453,7 @@
         ],
         "iconIndex": 376,
         "name": "Holy Shroud",
-        "note": "<Dice:1>\n<Unique:0>\n<Critical:99>\n<Type:Mat>\n<weapon><装備条件アクター:1>\n<uniqueItem><rate:SSR>\n<addElement:[8,1]><addText:[Attribute bonus: Holy +1][Sacred Attribute]>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA cloth that is said to wrap the remains of an ancient saint of the Rista\nreligion. Its specific name is unknown, but it is believed to be a person from at least\nthe time of the Carvain Dynasty. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:1>\n<Unique:0>\n<Critical:99>\n<Type:Mat>\n<weapon><装備条件アクター:1>\n<uniqueItem><rate:SSR>\n<addElement:[8,1]><addText:[Attribute bonus: Holy +1][Sacred Attribute]>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA cloth that is said to wrap the remains of an ancient saint of the Rista\nreligion. Its specific name is unknown, but it's believed to be a person from at least\nthe time of the Carvain Dynasty. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -486,7 +486,7 @@
         ],
         "iconIndex": 107,
         "name": "★Luminea's Holy Staff",
-        "note": "<Dice:1>\n<Unique:3>\n<Critical:99>\n<Type:Mat>\n<weapon><装備条件アクター:1>\n<uniqueItem><rate:UR>\n<addElement:[8,2]><addText:[Attribute Bonus: Holy +2]>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nThe staff that Saint Luminea possessed. It is simple and does not have any special magical\nmedium, but it has a very strong miraculous power. In the Rista religion, they are\nsearching for the whereabouts of this staff as a holy relic. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:1>\n<Unique:3>\n<Critical:99>\n<Type:Mat>\n<weapon><装備条件アクター:1>\n<uniqueItem><rate:UR>\n<addElement:[8,2]><addText:[Attribute Bonus: Holy +2]>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nThe staff that Saint Luminea possessed. It's simple and does not have any special magical\nmedium, but it has a very strong miraculous power. In the Rista religion, they are\nsearching for the whereabouts of this staff as a holy relic. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             5,
@@ -854,7 +854,7 @@
         ],
         "iconIndex": 97,
         "name": "Polished Iron Sword",
-        "note": "<Dice:2>\n<Unique:5>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<rate:UC>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA sword forged by a skilled craftsman. It is loved by novices and veterans alike. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:5>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<rate:UC>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA sword forged by a skilled craftsman. It's loved by novices and veterans alike. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -887,7 +887,7 @@
         ],
         "iconIndex": 120,
         "name": "Rapier",
-        "note": "<Dice:2>\n<Unique:2>\n<Critical:11>\n<Type:Atk>\n<weapon>\n<rate:R>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA thrusting sword used in conjunction with a unique swordsmanship from a\ncountry that crossed the sea. It is said to be commonly used in duels that are fought for\nhonor. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:2>\n<Critical:11>\n<Type:Atk>\n<weapon>\n<rate:R>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA thrusting sword used in conjunction with a unique swordsmanship from a\ncountry that crossed the sea. It's said to be commonly used in duels that are fought for\nhonor. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -920,7 +920,7 @@
         ],
         "iconIndex": 97,
         "name": "Bastard Sword",
-        "note": "<Dice:2>\n<Unique:8>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<rate:SR>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nLong sword with a long blade. It is preferred by trained soldiers because it can be used\nfor thrusting, slashing, and with one or both hands. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:8>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<rate:SR>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nLong sword with a long blade. It's preferred by trained soldiers because it can be used\nfor thrusting, slashing, and with one or both hands. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -986,7 +986,7 @@
         ],
         "iconIndex": 97,
         "name": "Katana",
-        "note": "<Dice:2>\n<Unique:9>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<rate:SR>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nSingle-edged sword used in the Eastern countries. It has a very sharp edge and high\ntoughness due to its unique forging method. In the Western countries, it is more valuable\nas a work of art. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:9>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<rate:SR>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nSingle-edged sword used in the Eastern countries. It has a very sharp edge and high\ntoughness due to its unique forging method. In the Western countries, it's more valuable\nas a work of art. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -1052,7 +1052,7 @@
         ],
         "iconIndex": 115,
         "name": "★Ancient King's Sword",
-        "note": "<Dice:2>\n<Unique:18>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<uniqueItem><rate:UR>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\n: Legendary  A sword said to have been carried by the last king of the\nancient country of Carvain. The blade is made of a precious alloy of divine brass and has\nnot rusted even after many years. It is of the highest quality as a weapon. \n\nRarity: \nLegendary.:\\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:18>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<uniqueItem><rate:UR>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\n: Legendary  A sword said to have been carried by the last king of the\nancient country of Carvain. The blade is made of a precious alloy of divine brass and has\nnot rusted even after many years. It's of the highest quality as a weapon. \n\nRarity: \nLegendary.:\\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -1069,7 +1069,7 @@
     {
         "id": 33,
         "animationId": 193,
-        "description": "A magic sword that unleashes a blade of light. It is impossible to dodge.\n[dice][param][special]",
+        "description": "A magic sword that unleashes a blade of light. It's impossible to dodge.\n[dice][param][special]",
         "etypeId": 1,
         "traits": [
             {
@@ -1085,7 +1085,7 @@
         ],
         "iconIndex": 106,
         "name": "Sword of Severance Light",
-        "note": "<Dice:1>\n<Unique:28>\n<Critical:99>\n<Type:Atk>\n<weapon>\n<rate:UR>\n<AbsAim>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA sword that can create a blade of light that stretches and contracts freely. It is very\nportable as it becomes only the hilt when not in combat. Be careful when handling it, as\neven if it is your own finger, accidentally touching the blade will cut it off cleanly.\n\n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:1>\n<Unique:28>\n<Critical:99>\n<Type:Atk>\n<weapon>\n<rate:UR>\n<AbsAim>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA sword that can create a blade of light that stretches and contracts freely. It's very\nportable as it becomes only the hilt when not in combat. Be careful when handling it, as\neven if it's your own finger, accidentally touching the blade will cut it off cleanly.\n\n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -1151,7 +1151,7 @@
         ],
         "iconIndex": 96,
         "name": "Cooking Knife",
-        "note": "<Dice:1>\n<Unique:2>\n<Critical:12>\n<Type:Agi>\n<weapon>\n<rate:C>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nCooking knife. Suitable for cutting and chopping ingredients. It is not usually used for\ncombat. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:1>\n<Unique:2>\n<Critical:12>\n<Type:Agi>\n<weapon>\n<rate:C>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nCooking knife. Suitable for cutting and chopping ingredients. It's not usually used for\ncombat. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -1184,7 +1184,7 @@
         ],
         "iconIndex": 96,
         "name": "Dagger",
-        "note": "<Dice:2>\n<Unique:2>\n<Critical:11>\n<Type:Agi>\n<weapon>\n<rate:UC>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA short sword made for combat. It is sturdy, easy to grip, and easy to handle. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:2>\n<Critical:11>\n<Type:Agi>\n<weapon>\n<rate:UC>\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA short sword made for combat. It's sturdy, easy to grip, and easy to handle. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -1217,7 +1217,7 @@
         ],
         "iconIndex": 96,
         "name": "Hornet",
-        "note": "<Dice:2>\n<Unique:2>\n<Critical:10>\n<Type:Agi>\n<weapon>\n<rate:R>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA stabbing knife with a very sharp tip. It is not very durable, but it can\naccurately hit vital points. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:2>\n<Critical:10>\n<Type:Agi>\n<weapon>\n<rate:R>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA stabbing knife with a very sharp tip. It's not very durable, but it can\naccurately hit vital points. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -1430,7 +1430,7 @@
         ],
         "iconIndex": 96,
         "name": "Lucky Dagger",
-        "note": "<Dice:2>\n<Unique:5>\n<Critical:8>\n<Type:Agi>\n<weapon><rate:UR>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nTalisman sword that is said to bring good luck just by having it. It is said to have been\nowned by a legendary thief. However, there is also a legend that the same amount of\nmisfortune will come if you let go of it. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:5>\n<Critical:8>\n<Type:Agi>\n<weapon><rate:UR>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nTalisman sword that is said to bring good luck just by having it. It's said to have been\nowned by a legendary thief. However, there is also a legend that the same amount of\nmisfortune will come if you let go of it. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -1447,7 +1447,7 @@
     {
         "id": 44,
         "animationId": 11,
-        "description": "A short sword made by processing the fang of an evil dragon. It is surrounded by an\nominous aura.\n[dice][param][special]",
+        "description": "A short sword made by processing the fang of an evil dragon. It's surrounded by an\nominous aura.\n[dice][param][special]",
         "etypeId": 1,
         "traits": [
             {
@@ -1463,7 +1463,7 @@
         ],
         "iconIndex": 119,
         "name": "Dragon Fang of Evil",
-        "note": "<Dice:2>\n<Unique:10>\n<Critical:10>\n<Type:Agi>\n<weapon><rate:UR>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nShort sword carved from the fang of an evil dragon. It is wrapped in an ominous aura of\nmiasmic spirits. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:10>\n<Critical:10>\n<Type:Agi>\n<weapon><rate:UR>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nShort sword carved from the fang of an evil dragon. It's wrapped in an ominous aura of\nmiasmic spirits. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             5,
             5,
@@ -1539,7 +1539,7 @@
         ],
         "iconIndex": 96,
         "name": "Frost Knife",
-        "note": "<Dice:2>\n<Unique:3>\n<Critical:11>\n<Type:Agi>\n<weapon>\n<rate:SR>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA short sword with an attached ice crystal that slows down the movements of\nenemies with strong cold air. Gloves are required because it is very cold. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:3>\n<Critical:11>\n<Type:Agi>\n<weapon>\n<rate:SR>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA short sword with an attached ice crystal that slows down the movements of\nenemies with strong cold air. Gloves are required because it's very cold. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -1787,7 +1787,7 @@
     {
         "id": 54,
         "animationId": 1,
-        "description": "An incredibly huge club. It's so big that dragging it is the best one can do. A heavy\nweapon with the same weight as a greatsword.\n[dice][param][special]",
+        "description": "An incredibly huge club. It's so big that dragging it's the best one can do. A heavy\nweapon with the same weight as a greatsword.\n[dice][param][special]",
         "etypeId": 1,
         "traits": [
             {
@@ -1919,7 +1919,7 @@
     {
         "id": 58,
         "animationId": 1,
-        "description": "The Great Hammer that distorts gravity. Despite its appearance, it is very light.\n[dice][param][special]",
+        "description": "The Great Hammer that distorts gravity. Despite its appearance, it's very light.\n[dice][param][special]",
         "etypeId": 1,
         "traits": [
             {
@@ -1940,7 +1940,7 @@
         ],
         "iconIndex": 111,
         "name": "Gravity Hammer",
-        "note": "<Dice:2>\n<Unique:13>\n<Critical:99>\n<Type:Atk>\n<weapon>\n<rate:SSR>\n<addSpeed:-5>\n<addText:[Heavy Pressure: Acquired]>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA hammer with a magic mechanism that distorts gravity. It is\nlightweight but not actually small in mass, and only the directionality of gravity is\ncontrolled. When hitting an enemy, it goes without saying that the directionality is aimed\nat them. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:13>\n<Critical:99>\n<Type:Atk>\n<weapon>\n<rate:SSR>\n<addSpeed:-5>\n<addText:[Heavy Pressure: Acquired]>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA hammer with a magic mechanism that distorts gravity. It's\nlightweight but not actually small in mass, and only the directionality of gravity is\ncontrolled. When hitting an enemy, it goes without saying that the directionality is aimed\nat them. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -2039,7 +2039,7 @@
         ],
         "iconIndex": 116,
         "name": "Great Sword",
-        "note": "<Dice:3>\n<Fold:2>\n<Unique:3>\n<Critical:18>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:R>\n<装備条件スキル:1081> \n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nTwo-handed long sword. There are many similar weapons depending on the region, and it is\nalso a general term for them. It is difficult for anyone other than a trained warrior to\nhandle. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:3>\n<Fold:2>\n<Unique:3>\n<Critical:18>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:R>\n<装備条件スキル:1081> \n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nTwo-handed long sword. There are many similar weapons depending on the region, and it's\nalso a general term for them. It's difficult for anyone other than a trained warrior to\nhandle. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -2110,7 +2110,7 @@
         ],
         "iconIndex": 116,
         "name": "Great Sword of the Great Wall",
-        "note": "<Dice:3>\n<Fold:2>\n<Unique:5>\n<Critical:99>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:SR>\n<装備条件スキル:1081> \n<addText:[Stone Wall: Acquired]>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nIn a certain country, a sword given to an honorable knight who protected the people with\ntheir body as a shield. The creator is unknown, but it is imbued with strong prayers and\nholds the miracle of protection. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:3>\n<Fold:2>\n<Unique:5>\n<Critical:99>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:SR>\n<装備条件スキル:1081> \n<addText:[Stone Wall: Acquired]>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nIn a certain country, a sword given to an honorable knight who protected the people with\ntheir body as a shield. The creator is unknown, but it's imbued with strong prayers and\nholds the miracle of protection. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -2143,7 +2143,7 @@
         ],
         "iconIndex": 116,
         "name": "Dreihander",
-        "note": "<Dice:3>\n<Unique:7>\n<Critical:18>\n<Fold:2>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:SR>\n<装備条件スキル:1081>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA large sword with a long and wide blade. It is used to crush enemies. It is said to be so\nheavy that an ordinary person cannot handle it without three arms. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:3>\n<Unique:7>\n<Critical:18>\n<Fold:2>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:SR>\n<装備条件スキル:1081>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA large sword with a long and wide blade. It's used to crush enemies. It's said to be so\nheavy that an ordinary person cannot handle it without three arms. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -2176,7 +2176,7 @@
         ],
         "iconIndex": 116,
         "name": "Sword of Wrath",
-        "note": "<Dice:3>\n<Unique:5>\n<Fold:2>\n<Critical:14>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:SSR>\n<装備条件スキル:1081>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nCursed sword that is driven by an uncontrollable anger when held. It delivers a powerful\nblow proportional to the strength of its anger. However, since that anger cannot be\ncontrolled, it is not necessarily directed only at enemies. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:3>\n<Unique:5>\n<Fold:2>\n<Critical:14>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:SSR>\n<装備条件スキル:1081>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nCursed sword that is driven by an uncontrollable anger when held. It delivers a powerful\nblow proportional to the strength of its anger. However, since that anger cannot be\ncontrolled, it's not necessarily directed only at enemies. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -2478,7 +2478,7 @@
         ],
         "iconIndex": 102,
         "name": "Elf's Bow",
-        "note": "<Dice:1>\n<Unique:8>\n<Fold:2>\n<Critical:99>\n<Type:Agi>\n<Twohanded>\n<weapon>\n<rate:R>\n<addSpeed:2>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA bow made using the traditional method passed down among the elves. It is made using a\nspecial technique that cannot be reproduced with human technology. It requires extensive\ntraining to handle it like an elf. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:1>\n<Unique:8>\n<Fold:2>\n<Critical:99>\n<Type:Agi>\n<Twohanded>\n<weapon>\n<rate:R>\n<addSpeed:2>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA bow made using the traditional method passed down among the elves. It's made using a\nspecial technique that cannot be reproduced with human technology. It requires extensive\ntraining to handle it like an elf. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -2511,7 +2511,7 @@
         ],
         "iconIndex": 103,
         "name": "Bow of Hiyoku",
-        "note": "<Dice:2>\n<Unique:1>\n<Fold:2>\n<Critical:99>\n<Type:Agi>\n<Twohanded>\n<weapon>\n<rate:SR>\n<addSpeed:2>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA bow that can string two arrows at the same time. Although it is difficult to handle, it\nhas a high accuracy rate as a bow. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:1>\n<Fold:2>\n<Critical:99>\n<Type:Agi>\n<Twohanded>\n<weapon>\n<rate:SR>\n<addSpeed:2>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA bow that can string two arrows at the same time. Although it's difficult to handle, it\nhas a high accuracy rate as a bow. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -2696,7 +2696,7 @@
         ],
         "iconIndex": 102,
         "name": "Hercules' Strong Bow",
-        "note": "<Dice:1>\n<Unique:10>\n<Fold:3>\n<Critical:99>\n<Type:Atk>\n<Twohanded>\n<weapon>\n<rate:UR>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nGiant sturdy bow said to have been wielded by a demigod hero of an ancient country. It is\ndifficult for an ordinary person to even draw the string, but once released, it unleashes\na meteor-like shot upon the enemy. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:1>\n<Unique:10>\n<Fold:3>\n<Critical:99>\n<Type:Atk>\n<Twohanded>\n<weapon>\n<rate:UR>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nGiant sturdy bow said to have been wielded by a demigod hero of an ancient country. It's\ndifficult for an ordinary person to even draw the string, but once released, it unleashes\na meteor-like shot upon the enemy. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -2762,7 +2762,7 @@
         ],
         "iconIndex": 117,
         "name": "Spear",
-        "note": "<Dice:2>\n<Unique:4>\n<Fold:2>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:UC>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nDue to its simple structure, it is easy to mass-produce and is excellent as a weapon, so\nit is a common spear adopted as a standard in many countries and territories. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:4>\n<Fold:2>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:UC>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nDue to its simple structure, it's easy to mass-produce and is excellent as a weapon, so\nit is a common spear adopted as a standard in many countries and territories. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -2795,7 +2795,7 @@
         ],
         "iconIndex": 117,
         "name": "Trident",
-        "note": "<Dice:2>\n<Unique:6>\n<Fold:2>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:R>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nTrident spear with a divided tip. Originally a weapon suitable for fishing, but in battles\nagainst demons, it is easier to inflict damage than a normal spear. \n\nRarity: \\SCRIPT{data.meta.rate}\n> \n",
+        "note": "<Dice:2>\n<Unique:6>\n<Fold:2>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:R>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nTrident spear with a divided tip. Originally a weapon suitable for fishing, but in battles\nagainst demons, it's easier to inflict damage than a normal spear. \n\nRarity: \\SCRIPT{data.meta.rate}\n> \n",
         "params": [
             0,
             0,
@@ -2937,7 +2937,7 @@
         ],
         "iconIndex": 117,
         "name": "Spear of Lightning",
-        "note": "<Dice:2>\n<Unique:7>\n<Fold:2>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:SSR>\n<addSpeed:2>\n<addElement:[4,1]>\n<addText:[Attribute Bonus: Thunder +1][\"雷閃\"習得]>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA magic spear imbued with the power of thunder spirits. It is always charged, but it does\nnot harm its owner. \n\nRarity: :\\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:7>\n<Fold:2>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:SSR>\n<addSpeed:2>\n<addElement:[4,1]>\n<addText:[Attribute Bonus: Thunder +1][\"雷閃\"習得]>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA magic spear imbued with the power of thunder spirits. It's always charged, but it does\nnot harm its owner. \n\nRarity: :\\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -2975,7 +2975,7 @@
         ],
         "iconIndex": 117,
         "name": "★Berg's Holy Spear",
-        "note": "<Dice:2>\n<Unique:5>\n<Fold:2>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:UR>\n<uniqueItem>\n<addText:[Undead/Spiritual Attack]>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nThe spear that is said to have caused the death of Berg Hermitt, the apostle who started\nthe Rista religion. It is an ordinary mass-produced item that was supplied to soldiers at\nthat time, but it holds a strong miracle due to Berg's blood. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:5>\n<Fold:2>\n<Critical:12>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:UR>\n<uniqueItem>\n<addText:[Undead/Spiritual Attack]>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nThe spear that is said to have caused the death of Berg Hermitt, the apostle who started\nthe Rista religion. It's an ordinary mass-produced item that was supplied to soldiers at\nthat time, but it holds a strong miracle due to Berg's blood. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -3008,7 +3008,7 @@
         ],
         "iconIndex": 117,
         "name": "Spear of Flash Attack",
-        "note": "<Dice:2>\n<Unique:9>\n<Critical:12>\n<Fold:2>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:UR>\n<Penetrate>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA magic spear that pierces through any defense. It is wrapped in extremely\nstrong magic power and emits a flash of light every time it is swung. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:2>\n<Unique:9>\n<Critical:12>\n<Fold:2>\n<Type:Atk>\n<weapon>\n<Twohanded>\n<rate:UR>\n<Penetrate>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA magic spear that pierces through any defense. It's wrapped in extremely\nstrong magic power and emits a flash of light every time it's swung. \n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             0,
@@ -3107,7 +3107,7 @@
         ],
         "iconIndex": 108,
         "name": "Ritual Staff of Frosleen",
-        "note": "<Dice:1>\n<Unique:1>\n<Critical:99>\n<Type:Atk>\n<weapon>\n<rate:UC>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\n: Rare  A ritual staff for the prayer priest of Frosleen to offer prayers to\nthe evil god. It is decorated with human bones. \n\nRarity:  Rare.:\\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:1>\n<Unique:1>\n<Critical:99>\n<Type:Atk>\n<weapon>\n<rate:UC>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\n: Rare  A ritual staff for the prayer priest of Frosleen to offer prayers to\nthe evil god. It's decorated with human bones. \n\nRarity:  Rare.:\\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             3,
@@ -3401,7 +3401,7 @@
         ],
         "iconIndex": 108,
         "name": "Sage's Staff",
-        "note": "<Dice:1>\n<Unique:2>\n<Critical:99>\n<Type:Atk>\n<weapon>\n<rate:SSR>\n<addText:[Magic Spear: Acquired]>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA staff said to have been used by a great ancient wizard of the \"Round Table\nof Wise Men\" magic academy. Originally, it was capable of amplifying the owner's magical\npower up to about double, but it is quite old and has lost its original performance.\n\n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
+        "note": "<Dice:1>\n<Unique:2>\n<Critical:99>\n<Type:Atk>\n<weapon>\n<rate:SSR>\n<addText:[Magic Spear: Acquired]>\n\n<SG種別:5><SGカテゴリ:武器>\n<SG説明:\nA staff said to have been used by a great ancient wizard of the \"Round Table\nof Wise Men\" magic academy. Originally, it was capable of amplifying the owner's magical\npower up to about double, but it's quite old and has lost its original performance.\n\n\nRarity: \\SCRIPT{data.meta.rate}\n> ",
         "params": [
             0,
             10,

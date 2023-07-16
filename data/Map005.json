@@ -7702,7 +7702,7 @@
                                 "show",
                                 "show",
                                 {
-                                    "text": "Due to the absence of the priest in charge, it is\ncurrently closed."
+                                    "text": "Due to the absence of the priest in charge, it's\ncurrently closed."
                                 }
                             ]
                         },
@@ -7710,7 +7710,7 @@
                             "code": 657,
                             "indent": 1,
                             "parameters": [
-                                "text = Due to the absence of the priest in charge, it is currently\nclosed"
+                                "text = Due to the absence of the priest in charge, it's currently\nclosed"
                             ]
                         },
                         {

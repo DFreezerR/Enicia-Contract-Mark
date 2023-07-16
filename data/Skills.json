@@ -2673,7 +2673,7 @@
             "type": 3,
             "variance": 20
         },
-        "description": "Use recovery magic so that it is not visible to the customer. (Usable \\v[575] times)\nRestore the party's HP by the value of [uniquePlusPara]",
+        "description": "Use recovery magic so that it's not visible to the customer. (Usable \\v[575] times)\nRestore the party's HP by the value of [uniquePlusPara]",
         "effects": [
             {
                 "code": 21,
@@ -19192,7 +19192,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "[Defense] Increases defense by 5 during the turn it is used. \n[special]",
+        "description": "[Defense] Increases defense by 5 during the turn it's used. \n[special]",
         "effects": [
             {
                 "code": 21,
@@ -19230,7 +19230,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "<Defense> Increases defense by 10 during the turn it is used. \n[special]",
+        "description": "<Defense> Increases defense by 10 during the turn it's used. \n[special]",
         "effects": [
             {
                 "code": 21,

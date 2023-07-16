@@ -1703,7 +1703,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Foreign food made with raw fish meat. Since it is a living organism, it is best to eat it\nwhile it is fresh. [heal][itemEffect]",
+        "description": "Foreign food made with raw fish meat. Since it's a living organism, it's best to eat it\nwhile it's fresh. [heal][itemEffect]",
         "effects": [
             {
                 "code": 21,
@@ -3574,7 +3574,7 @@
         "iconIndex": 0,
         "itypeId": 3,
         "name": "★Craftsman's Aid",
-        "note": "<quest><MaxItems: 1>\n<Type:MiniGame>\n<Money:100000><Bustle:10>\n<questvar:650>\n<resultVar:170>\n<resultP:3>\n<Exp:100>\n\n<SG説明:\\OW[5]\\c[0]\nAfter the capital was moved, the number\nof artisans decreased significantly, and recently, due to\nthe commotion caused by evil spirits, it is decreasing even\nfurther. For some reason, the evil spirits seem to be\ntargeting the homes and workshops of the artisans. In other\nwords, if the problem is solved, the artisans may return.\nPlease talk to the artisans in places such as the Old King\nStreet, Horseshoe Street, and the market, and help them.\n\\OC[\\v[99]]\n\\c[4]Basic Reward:\\c[6] 100000\\g  \n\\c[4]Client:\\c[6] Aldam, the lord of the Melgius region \n\\c[4]Location:\\c[6] Megista Castle \n\\c[4]\\n[1]:\\c[6](Are the artisans being targeted preferentially...?)\n\\ROC>\n<SGカテゴリ:クエスト>",
+        "note": "<quest><MaxItems: 1>\n<Type:MiniGame>\n<Money:100000><Bustle:10>\n<questvar:650>\n<resultVar:170>\n<resultP:3>\n<Exp:100>\n\n<SG説明:\\OW[5]\\c[0]\nAfter the capital was moved, the number\nof artisans decreased significantly, and recently, due to\nthe commotion caused by evil spirits, it's decreasing even\nfurther. For some reason, the evil spirits seem to be\ntargeting the homes and workshops of the artisans. In other\nwords, if the problem is solved, the artisans may return.\nPlease talk to the artisans in places such as the Old King\nStreet, Horseshoe Street, and the market, and help them.\n\\OC[\\v[99]]\n\\c[4]Basic Reward:\\c[6] 100000\\g  \n\\c[4]Client:\\c[6] Aldam, the lord of the Melgius region \n\\c[4]Location:\\c[6] Megista Castle \n\\c[4]\\n[1]:\\c[6](Are the artisans being targeted preferentially...?)\n\\ROC>\n<SGカテゴリ:クエスト>",
         "occasion": 0,
         "price": 0,
         "repeats": 1,
@@ -3626,7 +3626,7 @@
         "iconIndex": 0,
         "itypeId": 3,
         "name": "★Director and the Mysterious Illness",
-        "note": "<quest>\n<Type:MiniGame><MaxItems: 1>\n<Money:0><Bustle:3>\n<questvar:656>\n<Exp:100>\n\n<SG説明:\\OW[5]\\c[0]\nThe head of the Narsia orphanage has collapsed due to \"Black\nSpot Disease\". When infected with Black Spot Disease, one\nbecomes weak and the symptoms cannot be cured even with\nrecovery magic. Although it is rarely life-threatening, this\nis not the case for the elderly. \\n[1] She was my teacher\nwho took care of me since I was young. I want to do\nsomething to help her recover... \n\n\\c[4]Basic Reward:\\c[6] 0 \\g\n\\c[4]Client:\\c[6] None \n\\c[4]Location:\\c[6] Rista Chapel \n\\c[4]\\n[1]:\\c[6] (...We have to do something about the head of the orphanage...)\n\\ROC>\n<SGカテゴリ:クエスト>",
+        "note": "<quest>\n<Type:MiniGame><MaxItems: 1>\n<Money:0><Bustle:3>\n<questvar:656>\n<Exp:100>\n\n<SG説明:\\OW[5]\\c[0]\nThe head of the Narsia orphanage has collapsed due to \"Black\nSpot Disease\". When infected with Black Spot Disease, one\nbecomes weak and the symptoms cannot be cured even with\nrecovery magic. Although it's rarely life-threatening, this\nis not the case for the elderly. \\n[1] She was my teacher\nwho took care of me since I was young. I want to do\nsomething to help her recover... \n\n\\c[4]Basic Reward:\\c[6] 0 \\g\n\\c[4]Client:\\c[6] None \n\\c[4]Location:\\c[6] Rista Chapel \n\\c[4]\\n[1]:\\c[6] (...We have to do something about the head of the orphanage...)\n\\ROC>\n<SGカテゴリ:クエスト>",
         "occasion": 0,
         "price": 0,
         "repeats": 1,
@@ -21586,7 +21586,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Official explorer qualification. It is possible for \\n[1] to enter the ruins alone.",
+        "description": "Official explorer qualification. It's possible for \\n[1] to enter the ruins alone.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 609,
@@ -21638,7 +21638,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A familiar borrowed from Suuya. It is arrogant and thinks it is superior to its master.\nCurrently clinging to Enishia's head.",
+        "description": "A familiar borrowed from Suuya. It's arrogant and thinks it's superior to its master.\nCurrently clinging to Enishia's head.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 533,
@@ -21860,7 +21860,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A torn piece of cloth found at the site of monster emergence. It is dirty, but it is clear\nthat it is an expensive fabric.",
+        "description": "A torn piece of cloth found at the site of monster emergence. It's dirty, but it's clear\nthat it's an expensive fabric.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 320,
@@ -22224,7 +22224,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A book that clearly shows fate. It is possible to recall scenes that have not yet been\nseen. (ON/OFF possible)",
+        "description": "A book that clearly shows fate. It's possible to recall scenes that have not yet been\nseen. (ON/OFF possible)",
         "effects": [
             {
                 "code": 44,
@@ -22283,7 +22283,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Oil extracted from the refreshing scent of emer herb. It is good for consumption and\nbeauty, and also contains ingredients that repel pests.",
+        "description": "Oil extracted from the refreshing scent of emer herb. It's good for consumption and\nbeauty, and also contains ingredients that repel pests.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 582,
@@ -22725,7 +22725,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Bait made by mixing various ingredients. It is used for fishing.",
+        "description": "Bait made by mixing various ingredients. It's used for fishing.",
         "effects": [
             {
                 "code": 21,
@@ -22874,7 +22874,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A unique oyster that only exists as a female. It is also known by the name \"Wakarase\" in\nsome regions.",
+        "description": "A unique oyster that only exists as a female. It's also known by the name \"Wakarase\" in\nsome regions.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 632,
@@ -22900,7 +22900,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A bivalve that widely inhabits the Zephyr Sea. It is also used in soups because it\nproduces a good broth.",
+        "description": "A bivalve that widely inhabits the Zephyr Sea. It's also used in soups because it\nproduces a good broth.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 633,
@@ -22952,7 +22952,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A soft-bodied creature with eight legs that is called the devil fish. It is often mistaken\nfor a species of the Rustium biological group.",
+        "description": "A soft-bodied creature with eight legs that is called the devil fish. It's often mistaken\nfor a species of the Rustium biological group.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 635,
@@ -23030,7 +23030,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It adapts well to both fresh and saltwater and is widely found in the Melkian territory.\nAlthough it has many small bones, it is delicious when fried.",
+        "description": "It adapts well to both fresh and saltwater and is widely found in the Melkian territory.\nAlthough it has many small bones, it's delicious when fried.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 260,
@@ -23134,7 +23134,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A fish with a body that resembles a single-edged sword. It is actively fished to form\nschools. It is in season around autumn.",
+        "description": "A fish with a body that resembles a single-edged sword. It's actively fished to form\nschools. It's in season around autumn.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 654,
@@ -23212,7 +23212,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It is widely distributed and inhabits the Zephyr Sea, and is eaten by many people. In the\nnorthern continent, fermented salted fish is also made, which emits a strong odor.",
+        "description": "It's widely distributed and inhabits the Zephyr Sea, and is eaten by many people. In the\nnorthern continent, fermented salted fish is also made, which emits a strong odor.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 649,
@@ -23342,7 +23342,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A fish that inhabits rivers and seas in the western part of the mainland. It is delicious\nwhen salt-grilled.",
+        "description": "A fish that inhabits rivers and seas in the western part of the mainland. It's delicious\nwhen salt-grilled.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 750,
@@ -23550,7 +23550,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A flat fish that lives by diving into the swamp. It is often mistaken for a swamp\nflounder.",
+        "description": "A flat fish that lives by diving into the swamp. It's often mistaken for a swamp\nflounder.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 650,
@@ -23706,7 +23706,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A fish with a beautiful colored body. Be careful as it is poisonous.",
+        "description": "A fish with a beautiful colored body. Be careful as it's poisonous.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 545,
@@ -23784,7 +23784,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "It is so delicious that it reaches the climax, but it is not edible because it is highly\npoisonous to the whole body.",
+        "description": "It's so delicious that it reaches the climax, but it's not edible because it's highly\npoisonous to the whole body.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 777,
@@ -23836,7 +23836,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "The phantom giant eel that lives in the depths of the river. It is said to prefer\nattacking and devouring humans.",
+        "description": "The phantom giant eel that lives in the depths of the river. It's said to prefer\nattacking and devouring humans.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 778,
@@ -23862,7 +23862,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Sava is extremely fast on its feet. It is very delicious, but the taste significantly\ndeteriorates overnight.",
+        "description": "Sava is extremely fast on its feet. It's very delicious, but the taste significantly\ndeteriorates overnight.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 628,
@@ -24018,7 +24018,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A rainbow-colored trout with shining scales. It is unknown what \"gaming\" is or who named\nit.",
+        "description": "A rainbow-colored trout with shining scales. It's unknown what \"gaming\" is or who named\nit.",
         "effects": [],
         "hitType": 0,
         "iconIndex": 529,
@@ -28030,7 +28030,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Earrings adorned with a very rare gemstone called black phosphorus. It is believed to be\nan ornament of ancient royalty. [Treasure][itemEffect]",
+        "description": "Earrings adorned with a very rare gemstone called black phosphorus. It's believed to be\nan ornament of ancient royalty. [Treasure][itemEffect]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 909,
@@ -29720,7 +29720,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "Natural image. It has no particular medicinal effect, but it is delicious.\n[Mushroom/Herb][itemEffect]",
+        "description": "Natural image. It has no particular medicinal effect, but it's delicious.\n[Mushroom/Herb][itemEffect]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 401,
@@ -30344,7 +30344,7 @@
             "type": 0,
             "variance": 20
         },
-        "description": "A mineral that is mined from deep within the earth, it is an extremely hard and\nlightweight metal ore. [Mineral][Item Effect]",
+        "description": "A mineral that is mined from deep within the earth, it's an extremely hard and\nlightweight metal ore. [Mineral][Item Effect]",
         "effects": [],
         "hitType": 0,
         "iconIndex": 397,
@@ -51396,7 +51396,7 @@
         "iconIndex": 0,
         "itypeId": 4,
         "name": "Dice Reading",
-        "note": "<SG種別:2> <help>\n<SGカテゴリ:ヘルプ>\n<SG説明:\nThis game includes dice-based judgement such as in backgammon and combat. Generally, it is based on the concept that 'better outcomes are achieved with larger numbers on the dice',\nmaking it possible to play without in-depth knowledge of the system.\nHowever, to understand it more thoroughly, the usage of expressions such as \"2d6\" will be \nexplained.\" ○d6\" indicates '○ number of 6-sided dice'. Therefore, \\c[6]2d6 means 'rolling two 6-sided dice'\\c[0].\n\n\\c[4]Example: When the results of rolling two dice are 3 and 4:\\c[0]\n \\i[754]\\i[755]\n In this case, the result of rolling two 6-sided dice is \"7\", so the expression becomes \"2d6(7)\".\n\n> \n",
+        "note": "<SG種別:2> <help>\n<SGカテゴリ:ヘルプ>\n<SG説明:\nThis game includes dice-based judgement such as in backgammon and combat. Generally, it's based on the concept that 'better outcomes are achieved with larger numbers on the dice',\nmaking it possible to play without in-depth knowledge of the system.\nHowever, to understand it more thoroughly, the usage of expressions such as \"2d6\" will be \nexplained.\" ○d6\" indicates '○ number of 6-sided dice'. Therefore, \\c[6]2d6 means 'rolling two 6-sided dice'\\c[0].\n\n\\c[4]Example: When the results of rolling two dice are 3 and 4:\\c[0]\n \\i[754]\\i[755]\n In this case, the result of rolling two 6-sided dice is \"7\", so the expression becomes \"2d6(7)\".\n\n> \n",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -51474,7 +51474,7 @@
         "iconIndex": 0,
         "itypeId": 4,
         "name": "Fumbles (Mistakes)",
-        "note": "<SG種別:2> <SGカテゴリ:ヘルプ><help>\n<SG説明:\nIn actions where dice rolls are involved, if the roll result is the lowest possible value, \nthe action is often judged as a failure. \nFor example, in the case of 2d6, rolling the lowest possible value on both dice results in a fumble. \n\\i[752]\\i[752] \n\nNote that it is important to be careful as some bad states may increase the chances of fumbling.\n> \n",
+        "note": "<SG種別:2> <SGカテゴリ:ヘルプ><help>\n<SG説明:\nIn actions where dice rolls are involved, if the roll result is the lowest possible value, \nthe action is often judged as a failure. \nFor example, in the case of 2d6, rolling the lowest possible value on both dice results in a fumble. \n\\i[752]\\i[752] \n\nNote that it's important to be careful as some bad states may increase the chances of fumbling.\n> \n",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -51552,7 +51552,7 @@
         "iconIndex": 0,
         "itypeId": 4,
         "name": "Level Up and Parameters",
-        "note": "<SG種別:2> <SGカテゴリ:ヘルプ><help>\n<SG説明:\nIn this game, levels do not increase automatically. \nEach character manually levels up by \\c[6]spending experience points\\c[0]. \nWhen a character levels up, their HP and SP increase, and they gain parameter points. \n\nParameter points can be allocated to each ability value such as strength and agility. \nDetermine the character's aptitude and develop them as desired. \nEven if the distribution of ability values is incorrect, it is still possible to clear the game, but it is advantageous for exploration to develop a ranger-type character with high agility.\n> \n",
+        "note": "<SG種別:2> <SGカテゴリ:ヘルプ><help>\n<SG説明:\nIn this game, levels do not increase automatically. \nEach character manually levels up by \\c[6]spending experience points\\c[0]. \nWhen a character levels up, their HP and SP increase, and they gain parameter points. \n\nParameter points can be allocated to each ability value such as strength and agility. \nDetermine the character's aptitude and develop them as desired. \nEven if the distribution of ability values is incorrect, it's still possible to clear the game, but it's advantageous for exploration to develop a ranger-type character with high agility.\n> \n",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -51578,7 +51578,7 @@
         "iconIndex": 0,
         "itypeId": 4,
         "name": "Skill Acquisition",
-        "note": "<SG種別:2> <SGカテゴリ:ヘルプ><help>\n<SG説明:\nEach character can acquire new skills by \\c[6]spending experience points\\c[0]. \nBasic skills can be learned at the Explorer's Association, and new skills can also be learned from skill books and other sources obtained from time to time. \n\nSince experience points are also used for leveling up, it is important to carefully consider which to prioritize when using them.\n> \n",
+        "note": "<SG種別:2> <SGカテゴリ:ヘルプ><help>\n<SG説明:\nEach character can acquire new skills by \\c[6]spending experience points\\c[0]. \nBasic skills can be learned at the Explorer's Association, and new skills can also be learned from skill books and other sources obtained from time to time. \n\nSince experience points are also used for leveling up, it's important to carefully consider which to prioritize when using them.\n> \n",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -51630,7 +51630,7 @@
         "iconIndex": 0,
         "itypeId": 4,
         "name": "Exploration Maps",
-        "note": "<SG種別:2> <SGカテゴリ:ヘルプ><help>\n<SG説明:\nThis game features dungeons and other various locations to explore, which are typically in the form of a board game. \nThe clear conditions often involve reaching the goal within a specified number of turns. \n\nPlayers can obtain various items or encounter battles during their journey on the board. \nThere may even be some naughty events. \n\nThere are useful items that can increase the remaining turns or allow the player to specify their movement steps. \nTherefore, it is important to make proper preparations before engaging in the journey. \n\nIn addition, in the Explorer's Association located on Old King's Street, it is possible to recruit temporary comrades to join the exploration. \nSince \\n[1] is weak, it is recommended to add allies to the party if possible.\n> \n",
+        "note": "<SG種別:2> <SGカテゴリ:ヘルプ><help>\n<SG説明:\nThis game features dungeons and other various locations to explore, which are typically in the form of a board game. \nThe clear conditions often involve reaching the goal within a specified number of turns. \n\nPlayers can obtain various items or encounter battles during their journey on the board. \nThere may even be some naughty events. \n\nThere are useful items that can increase the remaining turns or allow the player to specify their movement steps. \nTherefore, it's important to make proper preparations before engaging in the journey. \n\nIn addition, in the Explorer's Association located on Old King's Street, it's possible to recruit temporary comrades to join the exploration. \nSince \\n[1] is weak, it's recommended to add allies to the party if possible.\n> \n",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
@@ -51656,7 +51656,7 @@
         "iconIndex": 0,
         "itypeId": 4,
         "name": "Escape Maps",
-        "note": "<SG種別:2> <SGカテゴリ:ヘルプ><help>\n<SG説明:\nThe escape map is basically the same as a normal exploration map, but it is extremely dangerous to venture alone. \n\nFurthermore, if the remaining turns become zero, players cannot return to the town and are forced to return to the starting point. \nTry your best to reach the exit somehow.\n> \n",
+        "note": "<SG種別:2> <SGカテゴリ:ヘルプ><help>\n<SG説明:\nThe escape map is basically the same as a normal exploration map, but it's extremely dangerous to venture alone. \n\nFurthermore, if the remaining turns become zero, players cannot return to the town and are forced to return to the starting point. \nTry your best to reach the exit somehow.\n> \n",
         "occasion": 3,
         "price": 0,
         "repeats": 1,
