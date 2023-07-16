@@ -40,7 +40,7 @@
             }
         ],
         "iconIndex": 136,
-        "name": "Rista Nun Robe",
+        "name": "Rista's Nun Robe",
         "note": "<CLOTHTYPE:MEDIUM>\n<charaChip:actor_0001>\n<ChipNum:2>\n<pose3Under:1>//ポーズ3の時の分割下着\n<pose3Under2:2>//ポーズ3の時のずらし\n<Veil:27>\n<CLOTHID:2>\n<StandNo:2>\n<socks:1>\n<Under:1>\n<Arm:1>\n<CLOTHPICNUM:Body_0002>\n<CHARACHIP:NORMAL>\n<TALKCATEGORY:NORMAL_NUN>\n<shame:0><MaxItems:1>\n<type:sister>\n<addText:\n\"Contract of Shame\" prohibits wearing it. >\n<装備条件アクター:1>\n<装備条件計算式:!$gameSwitches.value(108)>\n\n<SG種別:6><SGカテゴリ：防具>\n<SG説明:\nOne of the typical designs of the Rista religion's monastic clothing. There are various\ndesigns such as those that completely cover the body and those that open sideways.\n> ",
         "params": [
             0,
