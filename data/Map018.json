@@ -9202,7 +9202,7 @@
                             "code": 401,
                             "indent": 1,
                             "parameters": [
-                                "Feeling down..."
+                                "*Feeling down...*"
                             ]
                         },
                         {
@@ -10475,7 +10475,7 @@
                             "code": 401,
                             "indent": 0,
                             "parameters": [
-                                "(Enicia: The stray cat that my kids found... has completely made itself\nat home.)"
+                                "(The stray cat that my kids found... has completely made itself\nat home.)"
                             ]
                         },
                         {
